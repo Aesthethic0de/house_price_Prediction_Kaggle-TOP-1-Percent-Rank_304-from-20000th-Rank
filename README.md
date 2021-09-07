@@ -5,7 +5,7 @@ kaggle house price prediction competition - https://www.kaggle.com/c/home-data-f
 ![image](https://user-images.githubusercontent.com/74757813/132406234-c83ac337-1b6d-4f8e-bf28-257cee600acf.png)
 
 
-i have successfully Reached Top-1% using Gradient Boosting Regression Algorithm for house price Prediction.
+i have successfully Reached Top-1%   (880 th Rank -22454th Rank)using Gradient Boosting Regression Algorithm for house price Prediction.
 
 in future i ll be upodating and doing more hypertuning for better accuracy!
 
